@@ -1,0 +1,26 @@
+#-------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=MHHI_XEM-6000_renew_cMcm
+copyright=Manche / 555
+waytype=electrified_track
+freight=Post
+payload=400
+speed=130
+gear=159
+power=1200
+cost=2300000
+weight=35
+RunningCost=150
+Sound=2
+intro_year=2015
+intro_month=1
+EmptyImage[S]=MH_XEM6000_renew_m.0.0
+EmptyImage[E]=MH_XEM6000_renew_m.0.1
+EmptyImage[SE]=MH_XEM6000_renew_m.0.2
+EmptyImage[SW]=MH_XEM6000_renew_m.0.3
+EmptyImage[N]=MH_XEM6000_renew_m.0.4
+EmptyImage[W]=MH_XEM6000_renew_m.0.5
+EmptyImage[NW]=MH_XEM6000_renew_m.0.6
+EmptyImage[NE]=MH_XEM6000_renew_m.0.7
+-------------------------------------------------------------------------------
