@@ -1,0 +1,8 @@
+
+Makeobj version 55.1 for Simutrans 112.1 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+Image size is set to 64x64
+writing file C:\Users\aat\Documents\GitHub\ficrailset\seikai\F-serie\F8000\vehicle.seikai_er_f8300renew.pak
+Makeobj version 55.1 for Simutrans 112.1 and higher
