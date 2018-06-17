@@ -1,0 +1,2 @@
+C:\Users\aat\Dropbox\simutrans_making\renew\makeobj pak64 C:\Users\aat\Documents\GitHub\ficrailset\seikai\F-serie\F8000\vehicle.seikai_er_f8300renew.pak C:\Users\aat\Documents\GitHub\ficrailset\seikai\F-serie\F8000\ser_f8300renew.dat > log.txt 2>&1
+C:\Users\aat\Dropbox\simutrans_making\renew\makeobj pak64 C:\Users\aat\Documents\GitHub\ficrailset\seikai\F-serie\F8000\vehicle.seikai_er_f8270renew.pak C:\Users\aat\Documents\GitHub\ficrailset\seikai\F-serie\F8000\ser_f8270renew.dat > logw.txt 2>&1
