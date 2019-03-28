@@ -1,0 +1,26 @@
+#-------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------
+obj=vehicle
+name=MHHI_XGM-1000_cMc
+copyright=Manche / 555
+waytype=track
+engine_type=diesel
+freight=Passagiere
+payload=160
+speed=130
+gear=159
+power=1200
+cost=5300000
+weight=38
+RunningCost=30
+Sound=2
+intro_year=2015
+intro_month=1
+EmptyImage[S]=MH_XGM1000.0.0
+EmptyImage[E]=MH_XGM1000.0.1
+EmptyImage[SE]=MH_XGM1000.0.2
+EmptyImage[SW]=MH_XGM1000.0.3
+EmptyImage[N]=MH_XGM1000.0.4
+EmptyImage[W]=MH_XGM1000.0.5
+EmptyImage[NW]=MH_XGM1000.0.6
+EmptyImage[NE]=MH_XGM1000.0.7
